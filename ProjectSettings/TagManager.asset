@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Pickup
+  - Pipes
+  - ShittyFlagpole
+  - Goomba
+  - Sky
+  - Box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Sky
+  - Ground
+  - Player
+  - Goomba
+  - Box
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 1514482455
+    locked: 0
+  - name: Ground
+    uniqueID: 3620233097
+    locked: 0
+  - name: Player
+    uniqueID: 2106978623
+    locked: 0
+  - name: Pickups
+    uniqueID: 3546294961
+    locked: 0
+  - name: ShittyFlagpole
+    uniqueID: 2458411267
+    locked: 0
+  - name: Goomba
+    uniqueID: 2749488909
+    locked: 0
+  - name: Box
+    uniqueID: 959115743
+    locked: 0
